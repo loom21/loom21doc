@@ -1,7 +1,9 @@
 # Documentation Overview
 
 ## Settings
-### General settings  
+### General settings
+![General Settings Screenshot](./images/general-setting-light.PNG)
+
   On this page, you can change your default store, language, currency, VAT settings, show/hide bitcoin prices, or switch between light and dark mode.
 ### BTCPay Server  
   To accept bitcoin payments, you need to set your BTCPay Server URL and API Key.
@@ -13,7 +15,7 @@
   Set product/service measures.
 ### Import Templates  
   If you already have a list of products/services, customers, and suppliers, you can import them directly into the system.
-<br><br> <br> 
+<br><br><br> 
 
 
 ## Accounts
