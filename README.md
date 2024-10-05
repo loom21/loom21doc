@@ -10,10 +10,15 @@
 
   To accept bitcoin payments, you need to set your BTCPay Server URL and API Key.
 ### Stripe  
+![Stripe Setup](./images/stripe-light.PNG)
+
   To accept fiat payments through Stripe, you need to set Stripe Publishable and Secret keys.
-### Product Categories  
+### Product Categories
+![Product Categories Setup](./images/product-categories-light.PNG)
+
   Categorize your products for better organization, making them easier to find.
-### Measures  
+### Measures
+![Measures Setup](./images/measures-light.PNG)  
   Set product/service measures.
 ### Import Templates  
   If you already have a list of products/services, customers, and suppliers, you can import them directly into the system.
