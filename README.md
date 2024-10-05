@@ -5,7 +5,9 @@
 ![General Settings Screenshot](./images/general-setting-light.PNG)
 
   On this page, you can change your default store, language, currency, VAT settings, show/hide bitcoin prices, or switch between light and dark mode.
-### BTCPay Server  
+### BTCPay Server
+![BTCPay Server Setup](./images/btcpay-server-light.PNG)
+
   To accept bitcoin payments, you need to set your BTCPay Server URL and API Key.
 ### Stripe  
   To accept fiat payments through Stripe, you need to set Stripe Publishable and Secret keys.
