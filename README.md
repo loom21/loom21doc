@@ -7,7 +7,6 @@ You can create a new Sale by pressing the button "New Order"
 or edit existing one by clicking on the purple arrow.
 ![Add new sale order](./images/sale-add-new-light.PNG)
   - On the right side of the page, you can enter your order information, and optionally select the store from which you are dispatching (not applicable for services). This selection will be factored into your inventory calculations.
-  <br>
   - You can add products or services individually, or search and multi-select by clicking on "Select Items."
   - When selecting a customer, their address will automatically populate, but you can modify it if necessary.
 - **Payments**
