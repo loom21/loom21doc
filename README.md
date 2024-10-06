@@ -17,11 +17,12 @@ On this page, you can change your default store, language, currency, VAT setting
 ![Measures Setup](./images/measures-light.PNG)  
   Set product/service measures.
 - **Import Templates**
-![Import Templates Setup](./images/import-templates-light.PNG)  
+![Import Templates Setup](./images/import-templates-light.PNG)
   If you already have a list of products/services, customers, and suppliers, you can import them directly into the system.
 <br> 
 
 ## Accounts
+![Invite account](./images/account-invite-light.PNG)
 - You can invite as many users to your organization as needed.
 
 ## Inventory
