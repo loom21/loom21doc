@@ -19,8 +19,7 @@ On this page, you can change your default store, language, currency, VAT setting
 - **Import Templates**
 ![Import Templates Setup](./images/import-templates-light.PNG)  
   If you already have a list of products/services, customers, and suppliers, you can import them directly into the system.
-<br><br><br> 
-
+<br> 
 
 ## Accounts
 - You can invite as many users to your organization as needed.
