@@ -1,10 +1,8 @@
 # Documentation Overview
 
 ## Sales
-- **Add/Edit Sales**
-<p align="center">
-  <img alt="Sales list" src="https://raw.githubusercontent.com/loom21/loom21doc/main/images/sales-list-light.PNG">
-</p>
+- **Add/Edit Sales** 
+![Sales list](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sales-list-light.PNG)
 You can create a new Sale by pressing the button "New Order" 
 or edit existing one by clicking on the purple arrow.
 ![Add new sale order](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-add-new-light.PNG)
