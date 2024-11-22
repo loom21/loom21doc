@@ -175,11 +175,11 @@ On the next picture you can see the product details. The following fields and op
 #### Services Management
 
 > :bell: Services are managed in a similar way to products. You can create, edit, and categorize services just like products. However, services differ in that they are not included in inventory calculations, as they don't affect stock levels or require physical tracking.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Inventory <a id="inventory"></a>
 On this page, you can view and update the inventory of products across different stores. The inventory is automatically calculated based on sales and deliveries, ensuring accurate stock levels. You can manually adjust inventory if needed, giving you full control over product availability per location.
-
 
 ![Inventory](https://raw.githubusercontent.com/loom21/loom21doc/main/images/inventory-light.PNG)
 
