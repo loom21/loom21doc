@@ -46,8 +46,9 @@
     <li><a href="#accounts">Акаунти</a></li>
     <li><a href="#products-services">Продукти и услуги</a></li>
     <li><a href="#inventory">Инвентар</a></li>
-    <li><a href="#customers-suppliers">Клиенти и доставчици</a></li>
+    <li><a href="#stores">Магазини / Складове</a></li>
     <li><a href="#deliveries">Доставки</a></li>
+    <li><a href="#customers-suppliers">Клиенти и доставчици</a></li>
   </ol>
 </details>
 
@@ -183,8 +184,8 @@
 
 <p align="right">(<a href="#readme-top">нагоре</a>)</p>
 
-## Магазини<a id="store"></a>
-- Добавете или редактирайте магазини.
+## Магазини / Складове<a id="stores"></a>
+- Добавете или редактирайте магазини / складове.
 
 ![Магазини](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/stores-light.PNG)
 
