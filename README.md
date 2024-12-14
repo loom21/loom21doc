@@ -48,8 +48,9 @@
     <li><a href="#accounts">Accounts</a></li>
     <li><a href="#products-services">Products and Services</a></li>
     <li><a href="#inventory">Inventory</a></li>
-    <li><a href="#customers-suppliers">Customers and Suppliers</a></li>
+    <li><a href="#stores">Stores</a></li>
     <li><a href="#deliveries">Delivery Orders</a></li>
+    <li><a href="#customers-suppliers">Customers and Suppliers</a></li>
   </ol>
 </details>
 
@@ -185,7 +186,7 @@ On this page, you can view and update the inventory of products across different
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Stores <a id="store"></a>
+## Stores <a id="stores"></a>
 - Add or edit stores.
 
 ![Stores](https://raw.githubusercontent.com/loom21/loom21doc/main/images/stores-light.PNG)
