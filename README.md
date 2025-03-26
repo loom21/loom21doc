@@ -108,7 +108,7 @@ Setting up your organization.
 - On this page, you can update your default store, language, currency, VAT settings, toggle Bitcoin prices on or off, and switch between light and dark mode.
 - You can also set your address, which will appear on invoices.
 
-![General Settings Setup](https://raw.githubusercontent.com/loom21/loom21doc/main/images/general-setting-light.PNG)
+![General Settings Setup](https://raw.githubusercontent.com/loom21/loom21doc/main/images/general-setting-light.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
