@@ -78,7 +78,7 @@ After you sign up you will receive a confirmation email to confirm you account a
 - You can add products or services individually, or search and multi-select by clicking on "Select Items."
 - When selecting a customer, their address will automatically populate, but you can modify it if necessary.
 
-![Add new sale order](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-add-new-light.PNG)
+![Add new sale order](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-add-new-light.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
