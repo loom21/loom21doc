@@ -83,7 +83,8 @@ After you sign up you will receive a confirmation email to confirm you account a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Payments <a id="payments"></a>
-- Once your order is saved, payment and share buttons will appear, allowing you to either complete the payment directly or generate and send payment links to your customer.
+- Pay Buttons – Click the pay button to complete the payment directly.
+- Send Button – Clicking the send button will generate a payment URL and a print URL. You can then copy these URLs and send them to the customer.
 
 ![Saved sale order](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-payments-light.gif)
 
