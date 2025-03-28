@@ -77,6 +77,7 @@ After you sign up you will receive a confirmation email to confirm you account a
 - On the right side of the page, you can enter your order information, and optionally select the store from which you are dispatching (not applicable for services). This selection will be factored into your inventory calculations.
 - You can add products or services individually, or search and multi-select by clicking on "Select Items."
 - When selecting a customer, their address will automatically populate, but you can modify it if necessary.
+- Order History – Once a customer is selected, you can view their previous purchases, check the prices they paid, and quickly select the same products or services for their new order.
 
 ![Add new sale order](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-add-new-light.gif)
 
