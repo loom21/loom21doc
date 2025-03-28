@@ -209,10 +209,8 @@ On this page, you can manage the details of each delivery order:
 
 Left Section: Fill in the order information, including:
 - Order number
-- Status
 - Due date
 - Include Tax
-- Payment method
 - Store location for delivery
 - Any additional remarks, if needed.
 
