@@ -106,7 +106,7 @@
 - На тази страница можете да актуализирате вашия основен магазин/склад, език, валута, настройки за ДДС, да включите или изключите цени в биткойн, както и да превключвате между светъл и тъмен режим.
 - Можете също да зададете вашия адрес, който ще се показва на фактурите.
 
-![Общи настройки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/general-setting-light.PNG)
+![Общи настройки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/general-setting-light.gif)
 
 <p align="right">(<a href="#readme-top">нагоре</a>)</p>
 
