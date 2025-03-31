@@ -76,7 +76,7 @@
 - Можете да добавяте продукти или услуги поотделно или да търсите и селектирате повече от един с бутона "Избери".
 - При избор на клиент, адресът му ще се попълни автоматично, но можете да го промените ако е необходимо.
 
-![Добавяне на нова продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-add-new-light.PNG)
+![Добавяне на нова продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-add-new-light.gif)
 
 <p align="right">(<a href="#readme-top">нагоре</a>)</p>
 
