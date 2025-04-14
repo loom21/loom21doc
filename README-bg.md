@@ -61,7 +61,7 @@
 След като се регистрирате, ще получите имейл за потвърждение, за да потвърдите вашия акаунт и след това можете да влезете в приложението.
 ![Регистрация в app.loom21.com](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sign-up-and-in-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 <!-- SALES AND PAYMENTS -->
 ## Продажби<a id="sales"></a>
@@ -69,7 +69,7 @@
 
 ![Списък с продажби](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sales-list-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Добавяне/Редактиране на продажби<a id="add-edit-sales"></a>
 - От дясната страна на екрана можете да въведете информацията за вашата поръчка и да изберете магазина, от който изпращате (не важи за услуги). Този избор ще се отрази върху изчисленията ви за инвентар.
@@ -79,7 +79,7 @@
 
 ![Добавяне на нова продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-add-new-light.gif)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Плащания<a id="payments"></a>
 - Бутони за плащане – Кликнете върху бутона за плащане, за да завършите плащането директно.
@@ -98,7 +98,7 @@
 
 > :bell: Всички функции в приложението са защитени с автентикация, с изключение на линковете, генерирани чрез бутона за споделяне.
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Настройки
 
@@ -110,49 +110,49 @@
 
 ![Общи настройки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/general-setting-light.gif)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### BTCPay Сървър<a id="btcpay-server"></a>
 - За да включите плащания с биткойн, трябва да конфигурирате URL на вашия BTCPay Server и API ключ.
 
 ![Настройка на BTCPay Server](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/btcpay-server-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Stripe<a id="stripe"></a>
 - За да приемате плащания в фиат валута чрез Stripe, трябва да конфигурирате вашите Stripe Publishable и Secret ключове.
 
 ![Настройка на Stripe](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/stripe-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Категории на продуктите<a id="product-categories"></a>
 - Организирайте вашите продукти в категории за по-лесно разглеждане и подобрено управление.
 
 ![Настройка на категории на продукти](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/product-categories-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Мерни единици
 - Определете мерните единици за вашите продукти или услуги.
 
 ![Настройка на мерки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/measures-light.PNG)  
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Шаблони за импорт<a id="import-templates"></a>
 - Ако вече имате списък с продукти, услуги, клиенти или доставчици, можете да ги импортирате директно в системата.
 
 ![Настройка на шаблони за импортиране](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/import-templates-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Потребители<a id="accounts"></a>
 - Можете да поканите неограничен брой потребители към вашата организация, когато е необходимо и да определите техния достъп.
 
 ![Покана за акаунт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/account-invite-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Продукти и услуги<a id="products-services"></a>
 На тази страница можете ефективно да управлявате вашите продукти:
@@ -177,21 +177,21 @@
 
 > :bell: Услугите се управляват по подобен начин като продуктите. Можете да създавате, редактирате и категоризирате услуги по същия начин като продуктите. Разликата е, че услугите не се включват в изчисленията за инвентар, тъй като не влияят на нивото на наличности или изискват физическо проследяване.
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Инвентар<a id="inventory"></a>
 На тази страница можете да разгледате и обновите инвентара на продуктите в различни магазини/складове. Инвентарът се изчислява автоматично въз основа на продажбите и доставките, което гарантира точни нива на запасите. Можете ръчно да коригирате инвентара, ако е необходимо, което ви дава пълен контрол върху наличността на продукти по местоположение.
 
 ![Инвентар](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/inventory-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Магазини / Складове<a id="stores"></a>
 - Добавете или редактирайте магазини / складове.
 
 ![Магазини](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/stores-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Доставки<a id="deliveries"></a>
 На тази страница можете ефективно да управлявате вашите поръчки за доставка. Основните действия включват:
@@ -217,7 +217,7 @@
 
 ![Редактиране на доставка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/delivery-edit-light.PNG)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ## Клиенти и доставчици<a id="customers-suppliers"></a>
 Тази страница ви позволява лесно да управлявате вашата база данни от клиенти. Основните възможности включват:
@@ -247,7 +247,7 @@
 
 Това гарантира, че доставчиците са свързани с доставката на продукти, докато клиентите са свързани с продажбите.
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 <!-- CONTACT -->
 ## Контакт
@@ -256,4 +256,4 @@ loom21 - [@loom21app](https://x.com/loom21app)
 
 Връзка към проекта: [https://github.com/loom21/loom21doc](https://github.com/loom21/loom21doc)
 
-<p align="right">(<a href="#readme-top">най-горе</a>)</p>
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
