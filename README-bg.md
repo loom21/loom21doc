@@ -120,7 +120,7 @@
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
 ### Stripe<a id="stripe"></a>
-- За да приемате плащания в фиат валута чрез Stripe, трябва да конфигурирате вашите Stripe Publishable и Secret ключове.
+- За да приемате плащания във фиат валута чрез Stripe, трябва да конфигурирате вашите Stripe Publishable и Secret ключове.
 
 ![Настройка на Stripe](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/stripe-light.PNG)
 
