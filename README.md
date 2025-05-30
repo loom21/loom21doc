@@ -59,7 +59,7 @@
 
 In order to start using the loom21 app you need to create an account.
 
-### Create Account
+### Create Account<a id="create-account"></a><a id="sign-in"></a>
 After you sign up you will receive a confirmation email to confirm you account and then you can sign in.
 ![Sign Up to app.loom21.com](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sign-up-and-in-light.PNG)
 
