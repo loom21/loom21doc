@@ -135,7 +135,7 @@ Setting up your organization.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Measures
+### Measures<a id="measures"></a>
 - Define measurement units for your products or services.
 
 ![Measures Setup](https://raw.githubusercontent.com/loom21/loom21doc/main/images/measures-light.PNG)  

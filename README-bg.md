@@ -133,7 +133,7 @@
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
-### Мерни единици
+### Мерни единици<a id="measures"></a>
 - Определете мерните единици за вашите продукти или услуги.
 
 ![Настройка на мерки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/measures-light.PNG)  
