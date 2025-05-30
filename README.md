@@ -102,7 +102,7 @@ After you sign up you will receive a confirmation email to confirm you account a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Settings
+## Settings<a id="settings"></a>
 
 Setting up your organization.
 
