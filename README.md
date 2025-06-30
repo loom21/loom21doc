@@ -27,6 +27,7 @@
         <li><a href="#sign-in">Sign In</a></li>
       </ul>
     </li>
+    <li><a href="#payment-links">Payment Links</a></li>
     <li>
       <a href="#sales">Sales</a>
       <ul>
@@ -66,6 +67,16 @@ After you sign up you will receive a confirmation email to confirm you account a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SALES AND PAYMENTS -->
+## Payment Links <a id="payment-links"></a>
+- A payment link is a unique URL that you can share with customers to accept payments for a product, service, or donation. Creators can configure the link with details like the price, currency, and available payment options. Buyers use the link to complete their purchase securely.
+- Set the product name, price, currency (e.g., USD, EUR), and whether tax applies.
+- Choose payment methods (credit card or Bitcoin Lightning) and add optional promo codes.
+
+![Payment Link](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.gif)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Sales<a id="sales"></a>
 - You can create a new Sale by pressing the button "New Order" or edit existing one by clicking on the purple arrow.
 
