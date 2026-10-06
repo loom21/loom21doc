@@ -45,9 +45,10 @@
       <a href="#settings">Settings</a>
       <ul>
         <li><a href="#general-settings">General Settings</a></li>
+        <li><a href="#subscription">Subscription</a></li>
         <li><a href="#stripe">Stripe</a></li>
         <li><a href="#btcpay-server">BTCPay Server</a></li>
-        <li><a href="#misty-breez">Misty Breez</a></li>
+        <li><a href="#lightning-wallet">Lightning Wallet (Glow)</a></li>
         <li><a href="#speed-wallet">Speed Wallet</a></li>
         <li><a href="#lnbits">LNBits</a></li>
         <li><a href="#product-settings">Product Settings</a></li>
@@ -144,7 +145,7 @@ A payment link is a unique URL you can share with customers to accept payments f
 |-----------|-------------|
 | Stripe | Credit / Debit Card |
 | BTCPay Server | Bitcoin Lightning & On-chain |
-| Misty Breez | Bitcoin Lightning & On-chain |
+| Lightning Wallet (Glow) | Bitcoin Lightning & On-chain |
 | Speed Wallet | Bitcoin Lightning & On-chain |
 | LNBits | Bitcoin Lightning |
 
@@ -194,7 +195,7 @@ The toolbar on a saved order gives you quick access to all payment and document 
 
 **Pay** — a dropdown button showing every enabled payment processor. Choose one to open the payment dialog:
 - **Stripe** — the customer enters card details directly in a secure dialog.
-- **Bitcoin processors** (BTCPay Server, Misty Breez, Speed Wallet, LNBits) — a QR code and Lightning/on-chain payment address is displayed. Bitcoin payments are confirmed in real time — the order status updates automatically the moment the transaction is settled, without needing to refresh the page.
+- **Bitcoin processors** (BTCPay Server, Lightning Wallet (Glow), Speed Wallet, LNBits) — a QR code and Lightning/on-chain payment address is displayed. Bitcoin payments are confirmed in real time — the order status updates automatically the moment the transaction is settled, without needing to refresh the page.
 
 **Send** — saves the order and opens a dialog with the payment URL and print URL that you can copy and share with the customer.
 
@@ -304,6 +305,17 @@ This is where you configure your organization's core identity and preferences. T
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
+### Subscription<a id="subscription"></a>
+
+Shows your current loom21 plan — name, billing interval, and renewal/expiry date — plus the
+same feature summary shown when choosing a plan (users, orders, stores, user access, API
+access).
+
+Click **Change Subscription** to open the plan picker and switch plans, or **Choose a Plan**
+if you don't have an active subscription yet.
+
+<p align="right">(<a href="#docs-top">back to top</a>)</p>
+
 ### Stripe<a id="stripe"></a>
 - To accept fiat payments via Stripe, configure your Stripe Publishable and Secret keys.
 
@@ -319,11 +331,12 @@ This is where you configure your organization's core identity and preferences. T
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
-### Misty Breez<a id="misty-breez"></a>
+### Lightning Wallet (Glow)<a id="lightning-wallet"></a>
 - Non-custodial Bitcoin wallet supporting both Lightning and on-chain payments.
-- Enter your Misty Breez API Key to enable it.
+- Enter your Glow (or other LNURL-compatible) lightning address to enable it.
+- Use the **Test Connection** button to check whether this wallet supports real-time payment confirmation before going live with it.
 
-![Misty Breez](https://raw.githubusercontent.com/loom21/loom21doc/main/images/misty-breez.png)
+![Lightning Wallet (Glow)](https://raw.githubusercontent.com/loom21/loom21doc/main/images/misty-breez.png)
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
