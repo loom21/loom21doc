@@ -45,9 +45,10 @@
       <a href="#settings">Настройки</a>
       <ul>
         <li><a href="#general-settings">Общи настройки</a></li>
+        <li><a href="#subscription">Абонамент</a></li>
         <li><a href="#stripe">Stripe</a></li>
         <li><a href="#btcpay-server">BTCPay Сървър</a></li>
-        <li><a href="#misty-breez">Misty Breez</a></li>
+        <li><a href="#lightning-wallet">Lightning портфейл (Glow)</a></li>
         <li><a href="#speed-wallet">Speed Wallet</a></li>
         <li><a href="#lnbits">LNBits</a></li>
         <li><a href="#product-settings">Настройки на продукти</a></li>
@@ -144,7 +145,7 @@
 |-----------|-------------|
 | Stripe | Кредитна / Дебитна карта |
 | BTCPay Server | Bitcoin Lightning и On-chain |
-| Misty Breez | Bitcoin Lightning и On-chain |
+| Lightning портфейл (Glow) | Bitcoin Lightning и On-chain |
 | Speed Wallet | Bitcoin Lightning и On-chain |
 | LNBits | Bitcoin Lightning |
 
@@ -183,7 +184,7 @@
 
 **Избор на клиент** — търсете и изберете клиент, за да попълните автоматично адреса за доставка и фактуриране. При необходимост можете да промените адресните полета директно в поръчката.
 
-![Запазена поръчка за продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-order-payments-light.gif)
+![Запазена поръчка за продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-saved-light.PNG)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -193,7 +194,7 @@
 
 **Плати** — падащ бутон, показващ всеки активиран платежен процесор. Изберете един, за да отворите диалога за плащане:
 - **Stripe** — клиентът въвежда данните на картата директно в защитен диалог.
-- **Биткойн процесори** (BTCPay Server, Misty Breez, Speed Wallet, LNBits) — показват се QR код и Lightning/on-chain адрес за плащане. Биткойн плащанията се потвърждават в реално време — статусът на поръчката се актуализира автоматично в момента, в който транзакцията е уредена, без да е необходимо опресняване на страницата.
+- **Биткойн процесори** (BTCPay Server, Lightning портфейл (Glow), Speed Wallet, LNBits) — показват се QR код и Lightning/on-chain адрес за плащане. Биткойн плащанията се потвърждават в реално време — статусът на поръчката се актуализира автоматично в момента, в който транзакцията е уредена, без да е необходимо опресняване на страницата.
 
 **Изпрати** — запазва поръчката и отваря диалог с URL за плащане и URL за печат, които можете да копирате и споделите с клиента.
 
@@ -211,9 +212,9 @@
 
 ![Споделяне на поръчка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/share-sale-order.png)
 
-![Плащане с биткойн](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/pay-with-bitcoin-light.PNG)
+![Плащане с биткойн](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-lightning-payment.png)
 
-![Плащане с карта](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/payment-order-stripe.PNG)
+![Плащане с карта](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-stripe-payment.png)
 
 > :bell: Всички функции в приложението са защитени с автентикация, с изключение на връзките, генерирани чрез бутона Изпрати.
 
@@ -300,6 +301,17 @@
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
+### Абонамент<a id="subscription"></a>
+
+Показва текущия ви план в loom21 — име, период на таксуване и дата на подновяване/изтичане,
+както и същото резюме на функциите, показано при избор на план (потребители, поръчки,
+обекти, права на достъп, достъп до API).
+
+Натиснете **Промяна на абонамента**, за да отворите избора на планове и да превключите, или
+**Изберете план**, ако все още нямате активен абонамент.
+
+<p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
+
 ### Stripe<a id="stripe"></a>
 - За да приемате фиат плащания чрез Stripe, конфигурирайте своите Stripe Publishable и Secret ключове.
 
@@ -315,11 +327,12 @@
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
-### Misty Breez<a id="misty-breez"></a>
+### Lightning портфейл (Glow)<a id="lightning-wallet"></a>
 - Некастодиален биткойн портфейл с поддръжка на Lightning и on-chain плащания.
-- Въведете вашия Misty Breez API ключ, за да го активирате.
+- Въведете вашия Glow (или друг LNURL-съвместим) lightning адрес, за да го активирате.
+- Използвайте бутона **Тествай връзката**, за да проверите дали този портфейл поддържа потвърждение на плащането в реално време, преди да го активирате.
 
-![Misty Breez](https://raw.githubusercontent.com/loom21/loom21doc/main/images/misty-breez.png)
+![Lightning портфейл (Glow)](https://raw.githubusercontent.com/loom21/loom21doc/main/images/misty-breez.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
