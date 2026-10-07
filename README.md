@@ -5,7 +5,7 @@
   <p align="center">
     Track and manage your inventory, invoices, customers, vendors, payments and more.
     <br />
-    <a href="https://github.com/loom21/loom21doc" target="_blank"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/loom21/loom21doc" target="_blank"><strong>View on GitHub »</strong></a>
     <br />
     <br />
     <a href="https://github.com/loom21/loom21doc/issues" target="_blank">Report Bug</a>
@@ -50,7 +50,7 @@
         <li><a href="#btcpay-server">BTCPay Server</a></li>
         <li><a href="#lightning-wallet">Lightning Wallet (Glow)</a></li>
         <li><a href="#speed-wallet">Speed Wallet</a></li>
-        <li><a href="#lnbits">LNBits</a></li>
+        <li><a href="#lnbits">LNbits</a></li>
         <li><a href="#product-settings">Product Settings</a></li>
         <li><a href="#product-categories">Product Categories</a></li>
         <li><a href="#measures">Measures</a></li>
@@ -147,7 +147,7 @@ A payment link is a unique URL you can share with customers to accept payments f
 | BTCPay Server | Bitcoin Lightning & On-chain |
 | Lightning Wallet (Glow) | Bitcoin Lightning & On-chain |
 | Speed Wallet | Bitcoin Lightning & On-chain |
-| LNBits | Bitcoin Lightning |
+| LNbits | Bitcoin Lightning |
 
 > :bell: More payment processors are coming soon.
 
@@ -195,7 +195,7 @@ The toolbar on a saved order gives you quick access to all payment and document 
 
 **Pay** — a dropdown button showing every enabled payment processor. Choose one to open the payment dialog:
 - **Stripe** — the customer enters card details directly in a secure dialog.
-- **Bitcoin processors** (BTCPay Server, Lightning Wallet (Glow), Speed Wallet, LNBits) — a QR code and Lightning/on-chain payment address is displayed. Bitcoin payments are confirmed in real time — the order status updates automatically the moment the transaction is settled, without needing to refresh the page.
+- **Bitcoin processors** (BTCPay Server, Lightning Wallet (Glow), Speed Wallet, LNbits) — a QR code and Lightning/on-chain payment address is displayed. With BTCPay Server, Speed Wallet and LNbits, payments are confirmed in real time — the order status updates automatically the moment the transaction is settled, without needing to refresh the page. With Lightning Wallet (Glow) and other Lightning Address wallets, real-time confirmation depends on your wallet provider supporting it; use the **Test Connection** button in Settings to check your address.
 
 **Send** — saves the order and opens a dialog with the payment URL and print URL that you can copy and share with the customer.
 
@@ -311,8 +311,10 @@ Shows your current loom21 plan — name, billing interval, and renewal/expiry da
 same feature summary shown when choosing a plan (users, orders, stores, user access, API
 access).
 
-Click **Change Subscription** to open the plan picker and switch plans, or **Choose a Plan**
-if you don't have an active subscription yet.
+Every new account starts on the **Free** plan — free forever, with 1 user, 1 store and up to
+50 orders a month, and no credit card required. Click **Change Subscription** to open the plan
+picker and upgrade to Starter, Growth or Pro, or **Choose a Plan** if you don't have an active
+subscription yet. See [Pricing](https://loom21.com/en/pricing) for what each plan includes.
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
@@ -348,11 +350,11 @@ if you don't have an active subscription yet.
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
-### LNBits<a id="lnbits"></a>
+### LNbits<a id="lnbits"></a>
 - Open-source Lightning Network accounts system. Supports multiple wallets and extensions.
-- Configure your LNBits URL and API Key to enable it.
+- Configure your LNbits URL and API Key to enable it.
 
-![LNBits](https://raw.githubusercontent.com/loom21/loom21doc/main/images/lnbits.png)
+![LNbits](https://raw.githubusercontent.com/loom21/loom21doc/main/images/lnbits.png)
 
 <p align="right">(<a href="#docs-top">back to top</a>)</p>
 
@@ -477,7 +479,7 @@ In addition, you can set **customer-specific price overrides** directly on a pro
 
 1. Navigate to **Settings → Product Settings → Price Lists**.
 2. Click **New Price List** to expand the creation form.
-3. Enter a **name** (e.g. "Wholesale 2025"), select the **currency**, and optionally set a **Valid From / Valid To** date range to make the list active only during a specific period.
+3. Enter a **name** (e.g. "Wholesale 2026"), select the **currency**, and optionally set a **Valid From / Valid To** date range to make the list active only during a specific period.
 4. Check **Default** if this should be the primary price list used when no other rule matches.
 5. Click **Save**. The new list appears in the left panel.
 
@@ -583,7 +585,7 @@ The Accounts page shows all users who have access to your organization. Each row
 **Removing a user:**
 - Open the user's edit page and click **Delete** to remove their access.
 
-You can invite an unlimited number of users to your organization.
+The number of users you can invite depends on your plan — see [Pricing](https://loom21.com/en/pricing).
 
 ![Invite account](https://raw.githubusercontent.com/loom21/loom21doc/main/images/account-invite-light.PNG)
 
@@ -789,7 +791,9 @@ Click **Save** to apply any changes.
 <!-- CONTACT -->
 ## Contact
 
-loom21 - [@loom21app](https://x.com/loom21app)
+- X: [@loom21app](https://x.com/loom21app)
+- Telegram community: [t.me/+kcFe6QiEau0yNTVk](https://t.me/+kcFe6QiEau0yNTVk)
+- Contact form: [loom21.com/en/contact](https://loom21.com/en/contact)
 
 Project Link: [https://github.com/loom21/loom21doc](https://github.com/loom21/loom21doc)
 
