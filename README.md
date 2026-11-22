@@ -194,7 +194,7 @@ A payment link is a unique URL you can share with customers to accept payments f
 
 > :bell: More payment processors are coming soon.
 
-![Payment Link](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.gif)
+![Payment Link](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

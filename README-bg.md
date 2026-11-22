@@ -194,7 +194,7 @@
 
 > :bell: Предстои добавянето на още платежни процесори.
 
-![Платежна връзка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.gif)
+![Платежна връзка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
