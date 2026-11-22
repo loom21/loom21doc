@@ -352,9 +352,9 @@
 
 ![Споделяне на поръчка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/share-sale-order.png)
 
-![Плащане с биткойн](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-lightning-payment.png)
+![Плащане с биткойн](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-order-lightning-payment.png)
 
-![Плащане с карта](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-stripe-payment.png)
+![Плащане с карта](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-order-stripe-payment.png)
 
 > :bell: Всички функции в приложението са защитени с автентикация, с изключение на връзките, генерирани чрез бутона Изпрати.
 
