@@ -130,7 +130,7 @@
 - **Хронологична лента** — Хронологичен списък с последните събития от продажби, доставки и платежни връзки.
 - **Превключване светъл / тъмен режим** — Превключете между светла и тъмна тема с иконата в горния десен ъгъл на лентата с инструменти. Предпочитанието ви се прилага незабавно в цялото приложение.
 
-![Табло](https://raw.githubusercontent.com/loom21/loom21doc/main/images/dashboard.png)
+![Табло](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/dashboard.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -194,7 +194,7 @@
 
 > :bell: Предстои добавянето на още платежни процесори.
 
-![Платежна връзка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/payment-link-add.png)
+![Платежна връзка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/payment-link-add.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -243,7 +243,7 @@
 - **Бутон „Купи“** — **Създай бутон „Купи“** отваря диалога за [бутона „Купи“](#buy-button).
 - **Сървърна тайна** и **Опитайте** — за програмисти, които изграждат магазин върху Storefront API.
 
-![Настройки на онлайн магазин](https://raw.githubusercontent.com/loom21/loom21doc/main/images/storefront-edit-light.png)
+![Настройки на онлайн магазин](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/storefront-edit-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -269,7 +269,7 @@
 
 **Ако бутонът не се появява на сайта ви,** почти винаги сайтът липсва в **Разрешени сайтове** в раздела За разработчици на онлайн магазина. Конзолата на браузъра казва точно кой адрес да добавите. „Powered by Loom21“ се показва под поръчката на всеки план.
 
-![Диалог за бутона „Купи“](https://raw.githubusercontent.com/loom21/loom21doc/main/images/buy-button-dialog-light.png)
+![Диалог за бутона „Купи“](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/buy-button-dialog-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -324,7 +324,7 @@
 
 **Избор на клиент** — търсете и изберете клиент, за да попълните автоматично адреса за доставка и фактуриране. При необходимост можете да промените адресните полета директно в поръчката.
 
-![Запазена поръчка за продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-saved-light.PNG)
+![Запазена поръчка за продажба](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sale-order-saved-light.PNG)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -350,7 +350,7 @@
 
 **Копирай поръчка** — създава нова чернова поръчка, предварително попълнена със същия клиент, артикули, методи на плащане, адреси, настройки за ДДС, отстъпка, валута и бележки от текущата поръчка. Копието е чернова и се отваря незабавно, за да можете да го прегледате и коригирате; номер получава, когато бъде изпратено или платено. Използвайте го, за да повторите бързо предишна поръчка или за да започнете от съществуваща поръчка като шаблон.
 
-![Споделяне на поръчка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/share-sale-order.png)
+![Споделяне на поръчка](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/share-sale-order.png)
 
 ![Плащане с биткойн](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sale-order-lightning-payment.png)
 
@@ -390,7 +390,7 @@ URL адресът за плащане от **Изпрати** отваря ст
 
 Под курса, както се изисква за данъчни цели, PDF документът показва **Равностойност в EUR**: данъчната основа, ДДС и общата сума в EUR.
 
-![PDF на фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/invoice-pdf-light.png)
+![PDF на фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/invoice-pdf-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -409,9 +409,9 @@ URL адресът за плащане от **Изпрати** отваря ст
 
 Натиснете **Издай кредитно известие**. То получава следващия номер, издава се веднага и не може да се променя.
 
-![Диалог за кредитно известие](https://raw.githubusercontent.com/loom21/loom21doc/main/images/credit-note-dialog-light.png)
+![Диалог за кредитно известие](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/credit-note-dialog-light.png)
 
-![Кредит за сума](https://raw.githubusercontent.com/loom21/loom21doc/main/images/credit-note-amount-light.png)
+![Кредит за сума](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/credit-note-amount-light.png)
 
 **Какво още трябва да знаете:**
 - Една фактура може да има няколко кредитни известия, до размера на фактурираното. Картата **Кредитни известия** на фактурата ги изброява, заедно с това, което остава за кредитиране.
@@ -421,7 +421,7 @@ URL адресът за плащане от **Изпрати** отваря ст
 - Кредитните известия имат значка в списъка с продажби, а филтърът **Документ** показва фактури или кредитни известия. В отчетите те са редове с отрицателни стойности.
 - PDF на кредитното известие се изтегля от неговия екран.
 
-![Кредитни известия към фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/credit-notes-card-light.png)
+![Кредитни известия към фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/credit-notes-card-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -439,9 +439,9 @@ URL адресът за плащане от **Изпрати** отваря ст
 - **Протокол за анулиране** изтегля протокола, който се подписва с клиента.
 - За да издадете правилната фактура, използвайте **Копирай поръчка**. Копието помни коя фактура заменя, и протоколът я посочва, след като бъде издадена.
 
-![Анулиране на фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/annul-dialog-light.png)
+![Анулиране на фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/annul-dialog-light.png)
 
-![Анулирана фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/annulled-invoice-light.png)
+![Анулирана фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/annulled-invoice-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -451,9 +451,9 @@ URL адресът за плащане от **Изпрати** отваря ст
 
 Loom21 не изпраща възстановявания. Върнете парите сами, след което натиснете **Отбележи възстановяване** в предупреждението и въведете сумата и датата. Предупреждението показва какво остава и изчезва, когато всичко е възстановено. Отбелязаните възстановявания се изваждат от прихода в [Таблото](#dashboard).
 
-![Надплатена фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/overpaid-banner-light.png)
+![Надплатена фактура](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/overpaid-banner-light.png)
 
-![Диалог за възстановяване](https://raw.githubusercontent.com/loom21/loom21doc/main/images/record-refund-dialog-light.png)
+![Диалог за възстановяване](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/record-refund-dialog-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -487,7 +487,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 - **Фактури за много години?** Разделете ги на няколко файла до 10 000 реда и импортирайте първо най-старите.
 - **Сбъркали сте?** В **Импортирано досега** бутонът **Премахни импорта** премахва изцяло импорта и плащанията му, докато Loom21 не е издал първата си фактура. Добавените клиенти и продукти остават.
 
-![Импорт на фактури](https://raw.githubusercontent.com/loom21/loom21doc/main/images/import-invoices-light.png)
+![Импорт на фактури](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/import-invoices-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -542,9 +542,9 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 Кредитните известия са редове с отрицателни стойности и значка, така че сумите са нетни. Кредит за сума е един ред с основанието като наименование. Анулираните фактури не се показват.
 
-![Отчет за продажби](https://raw.githubusercontent.com/loom21/loom21doc/main/images/sales-report.png)
+![Отчет за продажби](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/sales-report.png)
 
-![Експорт на отчет](https://raw.githubusercontent.com/loom21/loom21doc/main/images/report-export-menu-light.png)
+![Експорт на отчет](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/report-export-menu-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -554,7 +554,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 Използвайте го по същия начин като Отчета за продажби: прилагайте филтри, търсете, сортирайте и експортирайте при необходимост.
 
-![Отчет за доставки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/deliveries-report.png)
+![Отчет за доставки](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/deliveries-report.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -604,7 +604,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 - ставка на ДДС, различна от 20% и 9%;
 - платежни връзки без ДДС и без вид доставка за дневника, или във валута без курс на ЕЦБ.
 
-![Дневник за продажбите](https://raw.githubusercontent.com/loom21/loom21doc/main/images/vat-ledger-light.png)
+![Дневник за продажбите](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/vat-ledger-light.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -699,7 +699,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 - Известно е, че го поддържат (ноември 2026): Glow (адреси `breez.tips`), Alby и Coinos. Wallet of Satoshi и Zebedee не го поддържат. Това може да се промени, затова разчитайте на **Тествай връзката**, а не на този списък.
 - Само Lightning. За on-chain биткойн използвайте [BTCPay Server](#btcpay-server).
 
-![Lightning address](https://raw.githubusercontent.com/loom21/loom21doc/main/images/misty-breez.png)
+![Lightning address](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/misty-breez.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -707,7 +707,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 - Биткойн портфейл с поддръжка на Lightning и on-chain плащания.
 - Въведете вашия Speed Wallet API ключ, за да го активирате.
 
-![Speed Wallet](https://raw.githubusercontent.com/loom21/loom21doc/main/images/speed-wallet.png)
+![Speed Wallet](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/speed-wallet.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -715,7 +715,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 - Система за Lightning Network акаунти с отворен код. Поддържа множество портфейли и разширения.
 - Конфигурирайте вашия LNbits URL и API ключ, за да го активирате.
 
-![LNbits](https://raw.githubusercontent.com/loom21/loom21doc/main/images/lnbits.png)
+![LNbits](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/lnbits.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -805,7 +805,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 След настройка на марките и моделите можете да ги присвоявате на продукти от страницата за редактиране на продукт. Това ви позволява да филтрирате Отчета за продажби по марка или модел, за да видите кои продуктови линии се представят най-добре.
 
-![Марки и модели](https://raw.githubusercontent.com/loom21/loom21doc/main/images/brands-models.png)
+![Марки и модели](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/brands-models.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -829,7 +829,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 След като потребителските полета са дефинирани, те се появяват като допълнителен раздел **Потребителски полета** на страницата за редактиране на всеки продукт, където можете да попълвате стойностите за всеки продукт.
 
-![Настройки за потребителски полета](https://raw.githubusercontent.com/loom21/loom21doc/main/images/custom-fields-settings.png)
+![Настройки за потребителски полета](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/custom-fields-settings.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -869,7 +869,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 - Натиснете иконата за **изтриване** до ценовата листа. Ще бъдете помолени да потвърдите. Изтриването на ценова листа премахва и всичките й нива.
 
-![Настройки за ценови листи](https://raw.githubusercontent.com/loom21/loom21doc/main/images/price-lists.png)
+![Настройки за ценови листи](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/price-lists.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
@@ -917,7 +917,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 Поправете ги във файла и го импортирайте отново. Файлът може да е до 10 MB и до 10 000 реда.
 
-![Проблеми при импорт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/import-problems-light.png)
+![Проблеми при импорт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/import-problems-light.png)
 
 #### Колони за продукти и услуги
 
@@ -1059,7 +1059,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 За да публикувате много наведнъж, отметнете ги в списъка с продукти и натиснете **Публикувай в онлайн магазина** или **Махни от онлайн магазина** в лентата, която се появява. Публикуваните продукти имат икона в колоната **Онлайн магазин** на списъка.
 
-![Раздел Онлайн магазин на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/product-storefront-tab-light.png)
+![Раздел Онлайн магазин на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/product-storefront-tab-light.png)
 
 #### Раздел Потребителски полета
 
@@ -1070,7 +1070,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 3. Попълнете стойностите за всяко показано поле.
 4. Натиснете **Запази**, за да съхраните стойностите на потребителските полета за продукта.
 
-![Потребителски полета на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/product-custom-fields.png)
+![Потребителски полета на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/product-custom-fields.png)
 
 #### Раздел Ценообразуване
 
@@ -1085,7 +1085,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 
 **Тест на ценовото разрешаване** — Въведете количество и по желание изберете клиент, след което натиснете **Разреши цена**, за да видите точно каква цена ще изчисли системата за тази комбинация. Резултатът показва крайната цена и дали е дошла от клиентско заместване, ниво в ценова листа или базовата цена на продукта.
 
-![Ценообразуване на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/product-pricing.png)
+![Ценообразуване на продукт](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/product-pricing.png)
 
 #### Управление на услуги
 
@@ -1244,7 +1244,7 @@ Loom21 не изпраща възстановявания. Върнете пар
 3. Потвърдете новата парола.
 4. Натиснете **Промени**.
 
-![Потребителски профил](https://raw.githubusercontent.com/loom21/loom21doc/main/images/user-profile.png)
+![Потребителски профил](https://raw.githubusercontent.com/loom21/loom21doc/main/images/bg/user-profile.png)
 
 <p align="right">(<a href="#readme-top">обратно в началото</a>)</p>
 
